@@ -26,6 +26,5 @@ This is an excel dashboard that I created for operations managers across the Aus
 3. An Excel spreadsheet that utilises Power Query to take the outputs from the previous steps and visualise the data using pivot tables.
   
 *Any information that could violate my NDA have been redacted*
-![logistics_dashboard_redacted_screenshot_shadow](https://github.com/paul-s-prk/my-data-portfolio/assets/139038933/5ad98faf-443a-430b-8193-de0d911e9531)  
 
 ## test
