@@ -16,11 +16,11 @@ Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney underta
 
 ## Logistics Network Performance Dashboard - Amazon Internship Summer '22-'23
 
-> *Find a closer look at how I utilised SQL in my project here [SQL Highlights](/amazon_logistics_dashboard/SQL_highlights.md)*  
+> 🚨 *Get a better look at how I utilised SQL in my project here [SQL Highlights](/amazon_logistics_dashboard/SQL_highlights.md)* 🚨
 
 During my internship at Amazon Logistics over the summer of 2022/23, I owned a project that produced an Excel dashboard for operations managers across the Last Mile (the final, and often most expensive, part of the supply chain where the parcel is delivered to the customer) Logistics Network. The dashboard provided new insights into the root cause of delivery issues, allowing for greater visibility over performance and more effective response plans. 
 
-My dashboard was implented across the national network of over 15 delivery stations, automating the time-consuming activity of bridging performance gaps against a key metric. Additionally, my dashboard provided new and granular insights into the root of defects allowing for greater visibilty of performance and more effective response plans. Nearing the end of my internship, I was working with the business intelligence team to implement the categorisation logic from my dashboard into the internal Amazon Logistics web dashboard.
+My dashboard was implented across the national network, automating the time-consuming activity of bridging performance gaps against a key metric. Additionally, my dashboard provided new and granular insights into the root of defects allowing for greater visibilty of performance and more effective response plans. Nearing the end of my internship, I was working with the business intelligence team to implement the categorisation logic from my dashboard into the internal Amazon Logistics web dashboard.
 
 This is an excel dashboard that I created for operations managers across the Australian Amazon Logistics (Last Mile) network. My overall project involved:
 1. A scheduled SQL statement to extract relevant data from Amazon databases.
