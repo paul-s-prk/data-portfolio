@@ -1,15 +1,24 @@
 
-### I got a lot of SQL practice in while manipulating my tables to create new 
-### columns. I would later use these columns to allow for much greater visibility
-    into the networks performance.
+I got a lot of SQL practice in while manipulating my tables to create new columns. I would later use these columns to allow for much greater visibility into the networks performance.
+so first, much of the insights I was able to derive were from connecting the domain knowledge I gained through conversations with operations managers. I wanted to get a deeper understanding into what was driving performance at a much more granular level than what was available in order to produce ***actionable*** insights. 
 
-### so first, much of the insights I was able to derive were from connecting the 
-    domain knowledge I gained through conversations with operations managers. 
-    I wanted to get a deeper understanding into what was driving performance
-    at a much more granular level than what was available in order to produce 
-    ***actionable*** insights.
+My utilisation of SQL in this project can be broken down as follows:
+1. Write a scheduled PostgresSQL statement to extract data from multiple tables across databases containing millions of rows
+2. Create a local SQLite database and insert data utilising Python's SQLite3 module to 
+3. Conduct EDA, manipulate data and feature engineer using SQLite SQL flavour.
+4. Export tables as csv for visualisation via Microsoft Excel's Power Query and Pivot Tables/Charts.
+   
+## 1. PostgresSQL statement to extract data from databases
 
-## Create a  
+
+## 2. Creating a local SQLite database using Python
+
+
+## 3. Conduct EDA, manipulate data and feature engineer using SQLite
+
+
+
+## 4. Export tables as csv
 
 
 ```SQL
