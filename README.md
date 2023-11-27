@@ -18,7 +18,7 @@ Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney underta
   
 > *Any information that could violate my NDA have been redacted*
 
-![amzl-dashboard-screenshot](assets/amzl-dashboard-screenshot-redacted.png)
+![amzl-dashboard-screenshot](assets/wide_amzl-dashboard-screenshot-redacted.png)
 
 > 🚨 *Find a closer look at how I utilised SQL in my project here [SQL Highlights](/amazon_logistics_dashboard/SQL_highlights.md)* 🚨
 
