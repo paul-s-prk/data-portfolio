@@ -9,10 +9,8 @@ Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney underta
   - Microsoft Excel (Power Query, Pivot Tables/Charts)
 
 **Personal Projects**
-- [MMA - Webscraping & EDA](#MMA---Webscraping)
+- [UFC/MMA Sports Analytics - EDA & Web Scraping '23](#ufc/mma-sports-analytics---eda-&-eeb scraping-23)
   - Python (Pandas, Matplotlib, Seaborn, Scrapy)
-- [test](#test)
-
 ---
 
 ## Logistics Network Performance Dashboard - Amazon Internship Summer '22-'23
@@ -34,4 +32,7 @@ My dashboard was implented across the national network, automating the time-cons
 
 ## UFC/MMA Sports Analytics - EDA & Web Scraping '23
 
+![collage_EDA_mma_sport_analytics](ufc_webscraping_eda/assets/collage_EDA_mma_sport_analytics.png)
+
+> 🚨 Find more details [here](ufc_webscraping_eda/README.md)
 
