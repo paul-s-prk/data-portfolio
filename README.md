@@ -2,6 +2,7 @@
 
 Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney undertaking a double degree in Economics (Econometrics and Data Analytics) and Arts (Politics and International Relations). You can find some of the projects I've had the pleasure of working on here. Below are some of the highlights.  
 
+---
 **Internships**
 - [Logistics Network Performance Dashboard - Amazon Internship Summer '22-'23](#logistics-network-performance-dashboard---amazon-internship-summer-22-23)
   - SQL (PostgreSQL, SQLite)
