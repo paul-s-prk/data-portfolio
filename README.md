@@ -32,4 +32,6 @@ My overall project involved:
 
 My dashboard was implented across the national network, automating the time-consuming activity of bridging performance gaps against a key metric. Additionally, my dashboard provided new and granular insights into the root of defects allowing for greater visibilty of performance and more effective response plans. Nearing the end of my internship, I was working with the business intelligence team to implement the categorisation logic from my SQL statement into the broader internal Amazon Logistics web dashboard.
 
-## test
+## UFC/MMA Sports Analytics - EDA & Web Scraping '23
+
+
