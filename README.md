@@ -9,7 +9,7 @@ Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney underta
   - Microsoft Excel (Power Query, Pivot Tables/Charts)
 
 **Personal Projects**
-- [UFC/MMA Sports Analytics - EDA & Web Scraping '23](#ufc/mma-sports-analytics---eda-&-eeb scraping-23)
+- [UFC/MMA Sports Analytics - EDA & Web Scraping '23](#ufcmma-sports-analytics---eda--web-scraping-23)
   - Python (Pandas, Matplotlib, Seaborn, Scrapy)
 ---
 
