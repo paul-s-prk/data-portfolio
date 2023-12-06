@@ -7,18 +7,8 @@ Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney underta
 | :--- | :-------------------- | :------- | 
 |**Internships**| [Logistics Dashboard - Amazon Internship '22-'23](#logistics-network-performance-dashboard---amazon-internship-summer-22-23) |`SQL (PostgreSQL, SQLite)`<br>`Python (Pandas, Matplotlib, sqlite3)` <br> `Microsoft Excel (Power Query, Pivot Tables/Charts)`|
 |**Personal<br>Projects**|[UFC/MMA Sports Analytics - EDA & Web Scraping '23](#ufcmma-sports-analytics---eda--web-scraping-23)|`Python (Pandas, Matplotlib, Seaborn, Scrapy)`|
-|**Online<br>Courses**| Data Analyst with Python
+|**Online<br>Courses**| Data Analyst with Python - DataCamp | |
 
----
-**Internships**
-- [Logistics Network Performance Dashboard - Amazon Internship Summer '22-'23](#logistics-network-performance-dashboard---amazon-internship-summer-22-23)
-  - SQL (PostgreSQL, SQLite)
-  - Python (Pandas, Matplotlib)
-  - Microsoft Excel (Power Query, Pivot Tables/Charts)
-
-**Personal Projects**
-- [UFC/MMA Sports Analytics - EDA & Web Scraping '23](#ufcmma-sports-analytics---eda--web-scraping-23)
-  - Python (Pandas, Matplotlib, Seaborn, Scrapy)
 ---
 
 ## Logistics Network Performance Dashboard - Amazon Internship Summer '22-'23
