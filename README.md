@@ -3,6 +3,13 @@
 Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney undertaking a double degree in Economics (Econometrics and Data Analytics) and Arts (Politics and International Relations). You can find some of the projects I've had the pleasure of working on here. Below are some of the highlights.  
 
 ---
+| Type | Project/Certification | Skills/Technologies | 
+| :--- | :-------------------- | :------- | 
+|**Internships**| [Logistics Dashboard - Amazon Internship '22-'23](#logistics-network-performance-dashboard---amazon-internship-summer-22-23) |`SQL (PostgreSQL, SQLite)`<br>`Python (Pandas, Matplotlib, sqlite3)` <br> `Microsoft Excel (Power Query, Pivot Tables/Charts)`|
+|**Personal<br>Projects**|[UFC/MMA Sports Analytics - EDA & Web Scraping '23](#ufcmma-sports-analytics---eda--web-scraping-23)|`Python (Pandas, Matplotlib, Seaborn, Scrapy)`|
+|**Online<br>Courses**| Data Analyst with Python
+
+---
 **Internships**
 - [Logistics Network Performance Dashboard - Amazon Internship Summer '22-'23](#logistics-network-performance-dashboard---amazon-internship-summer-22-23)
   - SQL (PostgreSQL, SQLite)
