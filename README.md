@@ -32,5 +32,5 @@ My dashboard was implented across the national network, automating the time-cons
 
 ![collage_EDA_mma_sport_analytics](ufc_webscraping_eda/assets/collage_EDA_mma_sport_analytics.png)
 
-> 🚨 Find more details [here](ufc_webscraping_eda)
+> 🚨 Find more details [here](ufc_webscraping_eda) 🚨
 
