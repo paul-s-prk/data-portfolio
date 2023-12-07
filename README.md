@@ -1,4 +1,4 @@
-# Data Portfolio [test]
+# Data Portfolio
 
 Hi, welcome to my data portfolio. I'm currently a student at UNSW Sydney undertaking a double degree in Economics (Econometrics and Data Analytics) and Arts (Politics and International Relations). You can find some of the projects I've had the pleasure of working on here. Below are some of the highlights.  
 
